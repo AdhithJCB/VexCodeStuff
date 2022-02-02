@@ -9,5 +9,5 @@ Scorpion
 ///
 
 # CONTRIBUTERS
-Adhith Jacob
+Adhith Jacob,
 Matt Yang
